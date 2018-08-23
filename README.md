@@ -6,6 +6,8 @@
 
 [ngx-echart](https://xieziyu.github.io/ngx-echarts/#/home)
 
+[echart api docs](http://echarts.baidu.com/echarts2/doc/doc-en.html)
+
 ```
 npm install echarts
 npm install ngx-echarts@2.3.1
